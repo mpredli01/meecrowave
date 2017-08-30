@@ -1,9 +1,9 @@
 
-## Apache OpenWebBeans Releases Meecrowave 
+## Apache OpenWebBeans Releases Meecrowave Server Version 1.0 for Java EE-Based Microservices 
 
 ### InfoQ Java Queue
 
-#### published August xx, 2017
+#### published August 30, 2017
 
 This example application was adapted from the Apache [Meecrowave](Meecrowave) GitHub repository and demonstrates how to setup and run a [meecrowave](http://openwebbeans.apache.org/meecrowave/) project. 
 
